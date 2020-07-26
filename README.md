@@ -1,2 +1,2 @@
-# Spring
-Projects done for Spring framework udemy course.
+# Spring Rest API
+Project done for Spring framework udemy course.
